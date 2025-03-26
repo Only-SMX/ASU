@@ -1,5 +1,4 @@
-# ASU
-# Auto Snap Uninstaller
+# ASU : Auto Snap Uninstaller
 
 How to Use This Script:
 
